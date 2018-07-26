@@ -17,7 +17,7 @@ public class MagentoTest {
 	@Test
 	public void magentoTest() {
 		// TODO Auto-generated method stub
-		//hhhf
+		//hhhfhfrhjkrhfjkhjk
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);

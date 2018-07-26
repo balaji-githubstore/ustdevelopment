@@ -10,7 +10,7 @@ public class LoginPage {
 	By login=By.id("send2");
 	
 	public LoginPage(WebDriver driver) {
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stub hhjhjhj
 		this.driver=driver;
 	}
 	
